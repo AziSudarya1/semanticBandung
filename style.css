@@ -112,7 +112,8 @@ footer{
   display: flex;
   align-items: center;
   justify-content: center;
-  color: aqua;
+  color: white;
+  font-size: 12px;
 }
 
 
@@ -131,7 +132,8 @@ footer{
   }
   header p{
     font-size: 16px;
-    padding: 16px;
+   text-align: center;
+   padding: 0px 34px;
   }
   article{
     width: 100%;
@@ -166,7 +168,8 @@ footer{
 
   header p{
     font-size: 16px;
-    padding: 16px;
+   text-align: center;
+   padding: 0px 34px;
   }
 
   article{
@@ -204,7 +207,8 @@ footer{
 
   header p{
     font-size: 16px;
-    padding: 16px;
+   text-align: center;
+   padding: 0px 34px;
   }
 
   article{
